@@ -5,7 +5,8 @@ Data contain 3 chest cancer types which are Adenocarcinoma,Large cell carcinoma,
 - test represent testing set.
 - train represent training set.
 - valid represent validation set. 
-training set is 70% testing set is 20% validation set is 10%
+
+training set is 70% testing set is 20% validation set is 10%.
 
 Download Link : 
 https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
